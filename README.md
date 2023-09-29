@@ -1,2 +1,2 @@
-# daily-record-of-programming-study
-Recording of my daily steps that I achieved whatever it is about programming
+# daily-record-of-Swift-studying
+Recording of my daily steps about learning Swift
